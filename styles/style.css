@@ -94,6 +94,30 @@
 
 /* styles for Delivery and Support started */
 
+.delivery-support-container{
+    width: 77%;
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(39, 39, 39, 0.05);
+    margin: auto;
+    margin-top: 130px;
+    gap: 100px;
+}
+.delivery{
+    text-align: center;
+    
+}
+.delivery-img{
+    width: 70px;
+}
+.delivery h4{
+    margin-top: 10px;
+    color: rgba(39, 39, 39, 0.80);
+    font-size: 18px;
+
+}
 /* styles for Delivery and Support ended */
 
 /* styles for Hot Deal section started */
@@ -104,7 +128,7 @@
     align-items: center;
     justify-content: center;
     gap: 120px;
-    margin-top: 150px;
+    margin-top: 110px;
 }
 .hot-deals-description{
     text-align: center;
@@ -262,3 +286,5 @@ footer{
     margin-top: 15px;
     font-size: 20px;
 }
+/* new arrivals section (Bonus section) ended */
+
