@@ -148,10 +148,36 @@
     margin-top: 80px;
     background-repeat: no-repeat;
     background-size: cover;
-    text-align: center;
+    position: relative;
    
     
 }
 .get-deals-title{
-    margin-top: 150px;
+    text-align: center;
+    position: absolute;
+    top: 150px;
+    left: 180px;
+    color: white;
+
+    
+}
+.get-deals-title h1{
+    color: #272727;
+    font-weight: 800;
+
+}
+.get-deals-title p{
+    margin: 16px 0px;
+    color: rgba(39, 39, 39, 0.60);
+}
+.get-deals-form{
+    display: flex;
+    gap: 14px;
+    margin-right: 100px;
+    
+    
+}
+.get-deals-form input{
+    width: 500px;
+    border: none;
 }
