@@ -115,3 +115,45 @@
 .hot-deals-container span{
     color: #E55473;
 }
+/* styles for Hot Deal section ended */
+
+/* styles for Instagram section started */
+
+.instagram-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+    margin-top: 40px;
+}
+.instagram-img{    
+    width: 290px;
+    height: 300px;
+
+}
+.ig-img{
+    width: 275px;
+    height: 310px;
+}
+/* styles for Instagram section ended */
+
+/* styles for Get The Latest Deals started */
+
+.get-deals-container{
+    width: 77%;
+    background-image: url("../Flower Asset/rectangle 9.png");
+    height: 48vh;
+    margin: auto;
+    margin-top: 80px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+
+.get-deals-info{
+    text-align: center;
+    align-items: center;
+    margin-top: 50px;
+}
