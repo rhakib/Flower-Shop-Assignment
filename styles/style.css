@@ -203,17 +203,28 @@ footer{
     height: 50vh;
     background-color:#111010;
     position: relative;
+    margin-top: 100px;
     
     
 }
 .footer-info{
     position: absolute;
     text-align: center;
-    
+    margin-left: 480px;
+    margin-top: 130px;
 }
 .footer-info h1{
     color: white;
 }
-.footer-info p{
+.footer-info span{
+    color: #E55473;
 
 }
+.footer-info> p{
+    margin: 20px 0;
+}
+.copyright{
+    color: rgba(255, 255, 255, 0.40);
+
+}
+/* footer section ended */
