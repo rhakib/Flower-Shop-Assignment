@@ -11,6 +11,14 @@
     align-items: center;
     justify-content: center;
     gap: 100px;
+    
+    
+}
+
+.nav-flower-img{
+    width: 500px;
+    height: 600px;
+    
 }
 .nav-heading h1{
     font-size: 65px;
@@ -28,10 +36,7 @@
     color: white;
     font-size: 16px;
 }
-.nav-flower-img{
-    width: 500px;
-    height: 600px;
-}
+
 /* styles for nav container ended */
 
 /* styles for featured flowers started */
@@ -226,19 +231,14 @@
 /* styles for footer section started */
 
 footer{
-    height: 50vh;
-    background-color:#111010;
-    position: relative;
+    background-color:#111010;    
     margin-top: 100px;
-    
-    
-}
-.footer-info{
-    position: absolute;
     text-align: center;
-    margin-left: 480px;
-    margin-top: 130px;
+    padding: 100px;
+    
+    
 }
+
 .footer-info h1{
     color: white;
 }
